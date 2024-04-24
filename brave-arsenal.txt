@@ -1,17 +1,17 @@
 title:BRAVE arsenal
 description:This is my own compiled list of god rolls for the BRAVE arsenal weapons released in "Into the Light".
 
-// Edge Transit (BRAVE weapon arsenal)
+// Edge Transit
 //notes: julian (PVE) Velocity/Handling Masterwork
 dimwishlist:item=568611923&perks=981914802,3301904089,968510818,3078487919,2489430594
 dimwishlist:item=2228325504&perks=981914802,3301904089,968510818,3078487919,2489430594 // shiny version
 
-// Elsie's Rifle (BRAVE weapon arsenal)
+// Elsie's Rifle
 //notes: julian (PVP) Range Masterwork
 dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080,2489430594
 dimwishlist:item=3851176026&perks=839105230,1885400500,2387244414,460017080,2489430594 // shiny version
 
-// Midnight Coup (BRAVE weapon arsenal)
+// Midnight Coup
 //notes: julian (PVP) Range Masterwork
 dimwishlist:item=2763843898&perks=3250034553,3142289711,3038247973,2387244414,2489430594
 dimwishlist:item=2763843898&perks=1482024992,3142289711,3038247973,2387244414,2489430594
@@ -21,3 +21,8 @@ dimwishlist:item=2499720827&perks=3250034553,3142289711,3038247973,2387244414,24
 dimwishlist:item=2499720827&perks=1482024992,3142289711,3038247973,2387244414,2489430594
 dimwishlist:item=2499720827&perks=1482024992,3142289711,588594999,47981717,2489430594
 dimwishlist:item=2499720827&perks=1482024992,3142289711,3828510309,2387244414,2489430594
+
+// Hammerhead
+//notes: julian (PVE) Handling Masterwork
+dimwishlist:item=1896309757&perks=3425386926,557221067,2489430594
+dimwishlist:item=211732170&perks=3425386926,557221067,2489430594
