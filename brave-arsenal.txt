@@ -5,6 +5,8 @@ description:This is my own compiled list of god rolls for the BRAVE arsenal weap
 //notes: julian (PVE) Velocity/Handling Masterwork
 dimwishlist:item=568611923&perks=981914802,3301904089,968510818,3078487919,2489430594
 dimwishlist:item=2228325504&perks=981914802,3301904089,968510818,3078487919,2489430594 // shiny version
+dimwishlist:item=568611923&perks=3301904089,968510818,3078487919,2489430594
+dimwishlist:item=2228325504&perks=3301904089,968510818,3078487919,2489430594
 
 // Elsie's Rifle
 //notes: julian (PVP) Range Masterwork
