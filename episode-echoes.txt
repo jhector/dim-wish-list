@@ -1,0 +1,8 @@
+title:Episode: Echoes - Weapons
+description:This is my own compiled list of god rolls for the weapons that dropped in the various Episodes.
+
+// Martyr's Retribution
+//notes: PVE add-clear and survivability  MW: handling/reload
+dimwishlist:item=2584830733&perks=3017780555,4293542123,2838996248
+dimwishlist:item=2584830733&perks=3300816228,4293542123,2838996248
+dimwishlist:item=2584830733&perks=3523296417,4293542123,2838996248
