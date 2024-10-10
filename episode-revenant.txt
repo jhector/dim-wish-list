@@ -1,0 +1,33 @@
+title:Episode: Revenant - Weapons
+description:This is my own compiled list of god rolls for the weapons that dropped in the Episode Revenant expansion.
+
+// Bitter/Sweet
+//notes: PVE boss damage,  MW: handling/reload
+dimwishlist:item=2599338625&perks=3987942396,3078487919,2041432007
+dimwishlist:item=2599338625&perks=3301904089,3987942396,3078487919,2041432007
+dimwishlist:item=2599338625&perks=1771897777,3987942396,3078487919,2041432007
+dimwishlist:item=2599338625&perks=332133599,3987942396,3078487919,2041432007
+dimwishlist:item=2599338625&perks=3987942396,3751912585,2041432007
+dimwishlist:item=2599338625&perks=3987942396,3194351027,2041432007
+
+// Wicked Sister
+///notes: PVE boss damage, MW: handling/reload
+dimwishlist:item=2039776723&perks=3987942396,3078487919
+dimwishlist:item=2039776723&perks=3987942396,3751912585
+dimwishlist:item=2039776723&perks=3987942396,3194351027
+
+// Tomorrows Answer
+//notes: PVE boss damage, MW: handling/reload
+dimwishlist:item=303107619&perks=3987942396,3078487919
+dimwishlist:item=303107619&perks=3987942396,3194351027
+dimwishlist:item=3009199534&perks=3987942396,3078487919
+dimwishlist:item=3009199534&perks=3987942396,3194351027
+
+// Sovereignty
+//notes: PVE weaken weapon, potentially good
+dimwishlist:item=3818198556&perks=3523296417,1134488199,2041432007
+dimwishlist:item=3818198556&perks=3038247973,1134488199,2041432007
+
+// Zealot's Reward
+//notes: PVE damage rotation, similar to Scattor Signal
+dimwishlist:item=2720651699&perks=3300816228,2594592626,511914882
