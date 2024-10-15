@@ -23,3 +23,19 @@ dimwishlist:item=3381450498&perks=1556840489,3673922083,220689851
 //notes: Great for boss damage rotations due to double-fire frame, MW: handling
 dimwishlist:item=2306182339&perks=3300816228,4104185692,2437618208
 dimwishlist:item=2306182339&perks=3300816228,1546637391,2437618208
+dimwishlist:item=1762785663&perks=3523296417,243981275,4139916815
+
+// == Vesper's Host ==
+// VS Velocity Baton
+//notes: Best Orb generator (PVE), MW reload/handling
+dimwishlist:item=1762785663&perks=3108830275,243981275,4139916815
+dimwishlist:item=1762785663&perks=776531651,2048641572,4139916815
+
+// VS Chill Inhibitor
+//notes: Best heavy GL in slot (PVE), MW reload/handling
+dimwishlist:item=1762785662&perks=3987942396,3078487919,4139916815
+dimwishlist:item=1762785662&perks=3987942396,3194351027,4139916815
+dimwishlist:item=1762785662&perks=3987942396,3708227201,4139916815
+dimwishlist:item=1762785662&perks=3751912585,3078487919,4139916815
+dimwishlist:item=1762785662&perks=3751912585,3708227201,4139916815
+dimwishlist:item=1762785662&perks=3751912585,3194351027,4139916815
