@@ -21,6 +21,8 @@ dimwishlist:item=2039776723&perks=3987942396,3194351027
 dimwishlist:item=3818198556&perks=3523296417,1134488199,2041432007
 dimwishlist:item=3818198556&perks=3038247973,1134488199,2041432007
 
-// Zealot's Reward
-//notes: PVE damage rotation, similar to Scattor Signal
-dimwishlist:item=2720651699&perks=3300816228,2594592626,511914882
+// Liturgy 
+//notes: PVE boss damage rotation, MW handling
+dimwishlist:item=2599338624&perks=3987942396,2109543898,2041432007
+dimwishlist:item=2599338624&perks=3987942396,2978966579,2041432007
+dimwishlist:item=2599338624&perks=3987942396,1556840489,2041432007
