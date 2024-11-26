@@ -1,0 +1,12 @@
+title:Nightfall Weapons
+description:This is my own compiled list of god rolls for the weapons dropping in Nightfalls.
+
+// Wild Style
+//note: PVE damage rotations, MW: handling
+dimwishlist:item=959037361&perks=1523832109,3078487919,2437618208
+
+// Wicked Sister
+///notes: PVE boss damage, MW: handling/reload
+dimwishlist:item=2039776723&perks=3987942396,3078487919
+dimwishlist:item=2039776723&perks=3987942396,3751912585
+dimwishlist:item=2039776723&perks=3987942396,3194351027
