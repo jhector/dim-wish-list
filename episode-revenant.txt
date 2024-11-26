@@ -10,12 +10,6 @@ dimwishlist:item=2599338625&perks=332133599,3987942396,3078487919,2041432007
 dimwishlist:item=2599338625&perks=3987942396,3751912585,2041432007
 dimwishlist:item=2599338625&perks=3987942396,3194351027,2041432007
 
-// Wicked Sister
-///notes: PVE boss damage, MW: handling/reload
-dimwishlist:item=2039776723&perks=3987942396,3078487919
-dimwishlist:item=2039776723&perks=3987942396,3751912585
-dimwishlist:item=2039776723&perks=3987942396,3194351027
-
 // Sovereignty
 //notes: PVE weaken weapon, potentially good
 dimwishlist:item=3818198556&perks=3523296417,1134488199,2041432007
