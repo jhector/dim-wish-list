@@ -6,3 +6,4 @@ description:This is my own compiled list of god rolls for the weapons that drop 
 dimwishlist:item=480368036&perks=563069569,2978966579,3989629871
 dimwishlist:item=480368036&perks=563069569,2109543898,3989629871
 dimwishlist:item=480368036&perks=563069569,3708227201,3989629871
+dimwishlist:item=480368036&perks=1421772400,2978966579,3989629871
