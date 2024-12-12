@@ -39,6 +39,7 @@ dimwishlist:item=1762785663&perks=3523296417,243981275,4139916815
 //notes: Best Orb generator (PVE), MW reload/handling
 dimwishlist:item=1762785663&perks=3108830275,243981275,4139916815
 dimwishlist:item=1762785663&perks=776531651,2048641572,4139916815
+dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275,4139916815
 
 // VS Chill Inhibitor
 //notes: Best heavy GL in slot (PVE), MW reload/handling
