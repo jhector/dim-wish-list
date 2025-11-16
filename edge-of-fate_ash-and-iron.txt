@@ -66,4 +66,12 @@ dimwishlist:item=4124362340&perks=3418782618,555281244
 //notes: good auto similar to the multimach
 dimwishlist:item=2857870254&perks=243981275,3891536761
 
+// Lance Ephemeral
+//notes: similar perk pool to Praedyth's
+dimwishlist:item=688593230&perks=3418782618,3078487919
+dimwishlist:item=688593230&perks=3418782618,1089671869
+dimwishlist:item=688593230&perks=1354429876,3078487919
+dimwishlist:item=688593230&perks=1354429876,1089671869
+dimwishlist:item=688593230&perks=3987942396,1089671869
+dimwishlist:item=688593230&perks=3987942396,3078487919
 
