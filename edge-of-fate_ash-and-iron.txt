@@ -1,0 +1,69 @@
+title:Edge of Fate & Ash and Iron
+description:This is my own compiled list of god rolls for the weapons released in "Edge of Fate" and "Ash and Iron".
+
+// Aisha's Embrace
+//notes: really good void scout, has shoot to loot and withering gaze
+dimwishlist:item=3709368142&perks=3700496672,1134488199
+dimwishlist:item=3709368142&perks=1464081238,2048641572
+
+// Synanceia
+//notes: best versatile sword with eager edge
+dimwishlist:item=1823308496&perks=4132187021,2077819806
+dimwishlist:item=1823308496&perks=243981275,2077819806
+dimwishlist:item=1823308496&perks=1749209109,3708227201
+dimwishlist:item=1823308496&perks=1749209109,1089671869
+dimwishlist:item=1823308496&perks=243981275,3708227201
+
+// Yeartide Apex
+//notes: best solar SMG
+dimwishlist:item=3293207827&perks=3017780555,4293542123
+dimwishlist:item=3293207827&perks=243981275,3640170453
+dimwishlist:item=3293207827&perks=3017780555,2890807135
+
+dimwishlist:item=2965080304&perks=3017780555,4293542123
+dimwishlist:item=2965080304&perks=243981275,3640170453
+dimwishlist:item=2965080304&perks=3017780555,2890807135
+
+// Festival Flight
+//notes: area denial with strand GL
+dimwishlist:item=3977654524&perks=3987942396,1089671869
+dimwishlist:item=3977654524&perks=3523296417,243981275
+dimwishlist:item=3977654524&perks=923806249,1546637391
+dimwishlist:item=3977654524&perks=1017229899,1089671869
+
+dimwishlist:item=4019651319&perks=3987942396,1089671869
+dimwishlist:item=4019651319&perks=3523296417,243981275
+dimwishlist:item=4019651319&perks=923806249,1546637391
+dimwishlist:item=4019651319&perks=1017229899,1089671869
+
+// Theodolite
+//notes: mountaintop like GL in energy slot
+dimwishlist:item=4146673635&perks=1523832109,4104185692
+
+// The When and Where
+//notes: best Rocket launcher though worse origin than Hezen
+dimwishlist:item=1090936013&perks=2284787283,3078487919
+dimwishlist:item=1090936013&perks=2284787283,1089671869
+dimwishlist:item=1090936013&perks=1523832109,1089671869
+dimwishlist:item=1090936013&perks=1523832109,3078487919
+dimwishlist:item=1090936013&perks=3643424744,3078487919
+dimwishlist:item=1090936013&perks=3643424744,1089671869
+
+// Antedate
+//notes: best in slot SMG for peace keepers titan
+dimwishlist:item=1435808083&perks=3418782618,365154968
+dimwishlist:item=4146673635&perks=1523832109,1089671869
+
+// Outrageous Fortune
+//notes: almost identical to Chill Inhibitor though no cascade
+dimwishlist:item=4146673634&perks=3301904089,3987942396,3078487919
+
+// Agape
+//notes: good handcannon for damage
+dimwishlist:item=4124362340&perks=3418782618,555281244
+
+// Everburning Glitz
+//notes: good auto similar to the multimach
+dimwishlist:item=2857870254&perks=243981275,3891536761
+
+
