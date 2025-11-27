@@ -1,0 +1,5 @@
+title:Renegades
+description:This is my own compiled list of god rolls for the weapons released in "Renegades".
+
+// Corundum Hammer
+//notes: Vulpecula replacement, Shoot-to-Loot and Explosive Payload
