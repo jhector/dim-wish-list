@@ -1,8 +1,0 @@
-title:Final Shape
-description:This is my own compiled list of god rolls for the weapons released in "The Final Shape".
-
-// Ergo Sum
-//notes: Boss damage weapon (PVE), "Caster Frame" & "The Perfect Fifth" for DPS and "Wolfpacks" for support
-dimwishlist:item=1681583613&perks=3666208348,269888150,519046634,2963428707
-dimwishlist:item=1681583613&perks=3666208348,269888150,289811733,2963428707
-dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730,2963428707
